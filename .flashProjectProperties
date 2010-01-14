@@ -1,0 +1,21 @@
+<projectDescription>
+  <id>1263410637798</id>
+  <name>RobotXML</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///My Stuff/Users/jos/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///My Stuff/Users/jos/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///My Stuff/Users/jos/Documents/Projects/Personal/RobotXML/src/RobotXML.fla</defaultApp>
+  <rootURI>file:///My Stuff/Users/jos/Documents/Projects/Personal/RobotXML/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="RobotXMLContext.as">file:///My Stuff/Users/jos/Documents/Projects/Personal/RobotXML/src/com/josyule/utilities/robotxml/RobotXMLContext.as</uri>
+    <uri label="RobotXMLMediator.as">file:///My Stuff/Users/jos/Documents/Projects/Personal/RobotXML/src/com/josyule/utilities/robotxml/views/RobotXMLMediator.as</uri>
+    <uri label="RobotXML.as">file:///My Stuff/Users/jos/Documents/Projects/Personal/RobotXML/src/RobotXML.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
