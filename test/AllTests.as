@@ -8,6 +8,7 @@ package
 	 */
 
 	import asunit.framework.TestSuite;
+	import com.josyule.utilities.robotxml.models.LocationTest;
 	import com.josyule.utilities.robotxml.RobotXMLContextTest;
 	import com.josyule.utilities.robotxml.views.FolderPickerMediatorTest;
 	import com.josyule.utilities.robotxml.views.FolderPickerTest;
@@ -19,6 +20,7 @@ package
 
 		public function AllTests() 
 		{
+			addTest(new com.josyule.utilities.robotxml.models.LocationTest());
 			addTest(new com.josyule.utilities.robotxml.RobotXMLContextTest());
 			addTest(new com.josyule.utilities.robotxml.views.FolderPickerMediatorTest());
 			addTest(new com.josyule.utilities.robotxml.views.FolderPickerTest());
