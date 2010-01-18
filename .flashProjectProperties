@@ -13,7 +13,13 @@
   <externalLibraries editable="false"/>
   <compileList editable="false"/>
   <recentFiles editable="false">
+    <uri label="RobotLegsParserService.as">file:///My Stuff/Users/jos/Documents/Projects/Personal/RobotXML/src/com/josyule/utilities/robotxml/services/RobotLegsParserService.as</uri>
+    <uri label="ParseFile.as">file:///My Stuff/Users/jos/Documents/Projects/Personal/RobotXML/src/com/josyule/utilities/robotxml/commands/ParseFile.as</uri>
+    <uri label="StartParsing.as">file:///My Stuff/Users/jos/Documents/Projects/Personal/RobotXML/src/com/josyule/utilities/robotxml/commands/StartParsing.as</uri>
     <uri label="RobotXMLContext.as">file:///My Stuff/Users/jos/Documents/Projects/Personal/RobotXML/src/com/josyule/utilities/robotxml/RobotXMLContext.as</uri>
+    <uri label="RobotXML.fla">file:///My Stuff/Users/jos/Documents/Projects/Personal/RobotXML/src/RobotXML.fla</uri>
+    <uri label="Location.as">file:///My Stuff/Users/jos/Documents/Projects/Personal/RobotXML/src/com/josyule/utilities/robotxml/models/Location.as</uri>
+    <uri label="SystemEvent.as">file:///My Stuff/Users/jos/Documents/Projects/Personal/RobotXML/src/com/josyule/utilities/robotxml/events/SystemEvent.as</uri>
     <uri label="RobotXMLMediator.as">file:///My Stuff/Users/jos/Documents/Projects/Personal/RobotXML/src/com/josyule/utilities/robotxml/views/RobotXMLMediator.as</uri>
     <uri label="RobotXML.as">file:///My Stuff/Users/jos/Documents/Projects/Personal/RobotXML/src/RobotXML.as</uri>
   </recentFiles>

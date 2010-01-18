@@ -1,0 +1,1 @@
+﻿package com.josyule.utilities.robotxml.models {		import org.robotlegs.mvcs.Actor;		public class Injections extends Actor	{				public function Injections() 		{		}				public function addInjections(fqdn:String, names:Array):void		{			trace(fqdn + " " + names);		}	}}
