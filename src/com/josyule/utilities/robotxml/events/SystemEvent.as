@@ -1,1 +1,0 @@
-﻿package com.josyule.utilities.robotxml.events {		import flash.events.Event;		public class SystemEvent extends Event {				public static const START_UPDATE:String = "start_update";						public function SystemEvent(name:String) {			trace("SystemEvent() " + name);			super(name);		} 					}}
