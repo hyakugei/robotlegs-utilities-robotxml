@@ -1,9 +1,9 @@
 <?xml version ="1.0" encoding="utf-8" ?>
 <application xmlns="http://ns.adobe.com/air/application/1.5">
 	<id>org.robotlegs.utilities.robotxml.RobotXML</id>
-	<version>1.0</version>
+	<version>0.1</version>
 	<filename>RobotXML</filename>
-	<description></description>
+	<description>A tool to help generate the XML file required for RobotLegs when working in the Flash IDE</description>
 	<!-- To localize the description, use the following format for the description element.
 	<description>
 		<text xml:lang="en">English App description goes here</text>
@@ -29,5 +29,5 @@
 	<customUpdateUI>false</customUpdateUI>
 	<allowBrowserInvocation>false</allowBrowserInvocation>
 	<icon>
-	</icon>
+	<image16x16>AppIconsForAIRPublish/AIRApp_16.png</image16x16><image32x32>AppIconsForAIRPublish/AIRApp_32.png</image32x32><image48x48>AppIconsForAIRPublish/AIRApp_48.png</image48x48><image128x128>AppIconsForAIRPublish/AIRApp_128.png</image128x128></icon>
 </application>

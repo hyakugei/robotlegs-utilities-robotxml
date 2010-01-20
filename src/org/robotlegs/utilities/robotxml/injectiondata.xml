@@ -1,36 +1,1 @@
-<types>
-  <type name="org.robotlegs.utilities.robotxml.commands::ParseFile">
-    <field name="service"/>
-    <field name="event"/>
-  </type>
-  <type name="org.robotlegs.utilities.robotxml.commands::RecordNewInjectionCommand">
-    <field name="event"/>
-    <field name="model"/>
-  </type>
-  <type name="org.robotlegs.utilities.robotxml.commands::StartParsing">
-    <field name="service"/>
-    <field name="model"/>
-  </type>
-  <type name="org.robotlegs.utilities.robotxml.commands::WriteXMLCommand">
-    <field name="locations"/>
-    <field name="injections"/>
-  </type>
-  <type name="org.robotlegs.utilities.robotxml.services::RobotLegsParserService">
-    <field name="name"/>
-  </type>
-  <type name="org.robotlegs.utilities.robotxml.views::FilePickerMediator">
-    <field name="model"/>
-    <field name="view"/>
-  </type>
-  <type name="org.robotlegs.utilities.robotxml.views::FolderPickerMediator">
-    <field name="model"/>
-    <field name="view"/>
-  </type>
-  <type name="org.robotlegs.utilities.robotxml.views::RobotXMLMediator">
-    <field name="view"/>
-  </type>
-  <type name="org.robotlegs.utilities.robotxml.views::UpdateButtonMediator">
-    <field name="model"/>
-    <field name="view"/>
-  </type>
-</types>
+<types>  <type name="org.robotlegs.utilities.robotxml.commands::ParseFile">    <field name="service"/>    <field name="event"/>  </type>  <type name="org.robotlegs.utilities.robotxml.commands::RecordNewInjectionCommand">    <field name="event"/>    <field name="model"/>  </type>  <type name="org.robotlegs.utilities.robotxml.commands::StartParsing">    <field name="service"/>    <field name="model"/>  </type>  <type name="org.robotlegs.utilities.robotxml.commands::WriteXMLCommand">    <field name="locations"/>    <field name="injections"/>  </type>  <type name="org.robotlegs.utilities.robotxml.views::FilePickerMediator">    <field name="model"/>    <field name="view"/>  </type>  <type name="org.robotlegs.utilities.robotxml.views::FolderPickerMediator">    <field name="model"/>    <field name="view"/>  </type>  <type name="org.robotlegs.utilities.robotxml.views::RobotXMLMediator">    <field name="view"/>  </type>  <type name="org.robotlegs.utilities.robotxml.views::UpdateButtonMediator">    <field name="model"/>    <field name="view"/>  </type></types>
